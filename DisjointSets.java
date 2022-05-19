@@ -1,15 +1,6 @@
 import java.io.*;
 import java.util.*;
 
-
-/****************************
-*
-* COMP251 template file
-*
-* Assignment 1, Question 2
-*
-*****************************/
-
 	
 public class DisjointSets {
 
